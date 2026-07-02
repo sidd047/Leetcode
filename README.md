@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sidd047/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidd047/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/sidd047/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sidd047/Leetcode/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sidd047/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
