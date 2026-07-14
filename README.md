@@ -101,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sidd047/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
