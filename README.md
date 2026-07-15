@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/sidd047/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
