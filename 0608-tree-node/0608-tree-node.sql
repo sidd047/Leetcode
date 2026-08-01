@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT DISTINCT p.id, CASE WHEN p.p_id IS NULL THEN 'Root' WHEN c.id IS NOT NULL THEN 'Inner' ELSE 'Leaf' END AS type FROM Tree p LEFT JOIN Tree c ON p.id = c.p_id;
