@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sidd047/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sidd047/Leetcode/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sidd047/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sidd047/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sidd047/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sidd047/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/sidd047/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sidd047/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sidd047/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/sidd047/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/sidd047/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sidd047/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sidd047/Leetcode/tree/master/0867-transpose-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
