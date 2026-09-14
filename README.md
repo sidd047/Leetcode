@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sidd047/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sidd047/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sidd047/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sidd047/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3861-minimum-capacity-box](https://github.com/sidd047/Leetcode/tree/master/3861-minimum-capacity-box) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sidd047/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sidd047/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sidd047/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sidd047/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sidd047/Leetcode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/sidd047/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Prefix Sum
 |  |
 | ------- |
