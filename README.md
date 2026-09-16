@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sidd047/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/sidd047/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/sidd047/Leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/sidd047/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sidd047/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
