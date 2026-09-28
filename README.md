@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sidd047/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sidd047/Leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sidd047/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sidd047/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
@@ -240,4 +241,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sidd047/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
