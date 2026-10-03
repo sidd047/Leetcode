@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sidd047/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sidd047/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sidd047/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sidd047/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sidd047/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sidd047/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sidd047/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sidd047/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sidd047/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sidd047/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sidd047/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
