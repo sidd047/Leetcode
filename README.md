@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sidd047/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sidd047/Leetcode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidd047/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0335-self-crossing](https://github.com/sidd047/Leetcode/tree/master/0335-self-crossing) |
 | [0414-third-maximum-number](https://github.com/sidd047/Leetcode/tree/master/0414-third-maximum-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sidd047/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/sidd047/Leetcode/tree/master/0867-transpose-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sidd047/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
+| [0335-self-crossing](https://github.com/sidd047/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/sidd047/Leetcode/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sidd047/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sidd047/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/sidd047/Leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
