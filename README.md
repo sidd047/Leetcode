@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sidd047/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sidd047/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sidd047/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/sidd047/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/sidd047/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sidd047/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sidd047/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidd047/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sidd047/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0633-sum-of-square-numbers](https://github.com/sidd047/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sidd047/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/sidd047/Leetcode/tree/master/0292-nim-game) |
 | [0335-self-crossing](https://github.com/sidd047/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/sidd047/Leetcode/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/sidd047/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sidd047/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sidd047/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
