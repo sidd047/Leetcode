@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sidd047/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1006-clumsy-factorial](https://github.com/sidd047/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/sidd047/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/sidd047/Leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/sidd047/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1006-clumsy-factorial](https://github.com/sidd047/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sidd047/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sidd047/Leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/sidd047/Leetcode/tree/master/0867-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/sidd047/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
 ## Database
 |  |
