@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sidd047/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sidd047/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1006-clumsy-factorial](https://github.com/sidd047/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Hash Table
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/sidd047/Leetcode/tree/master/0335-self-crossing) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sidd047/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
