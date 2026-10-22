@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sidd047/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sidd047/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sidd047/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidd047/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sidd047/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sidd047/Leetcode/tree/master/0867-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/sidd047/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1518-water-bottles](https://github.com/sidd047/Leetcode/tree/master/1518-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sidd047/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Database
 |  |
 | ------- |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sidd047/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/sidd047/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
