@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sidd047/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sidd047/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sidd047/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/sidd047/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sidd047/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sidd047/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/sidd047/Leetcode/tree/master/0709-to-lower-case) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sidd047/Leetcode/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/sidd047/Leetcode/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/sidd047/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sidd047/Leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/sidd047/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sidd047/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sidd047/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sidd047/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sidd047/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sidd047/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sidd047/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sidd047/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sidd047/Leetcode/tree/master/1331-rank-transform-of-an-array) |
