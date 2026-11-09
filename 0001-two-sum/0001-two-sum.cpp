@@ -13,6 +13,6 @@ public:
                 }
             }
         }
-        return ans;  // Empty if not found
-    }     
+        return ans; 
+    }
 };
