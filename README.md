@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sidd047/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3099-harshad-number](https://github.com/sidd047/Leetcode/tree/master/3099-harshad-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sidd047/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sidd047/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/sidd047/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sidd047/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sidd047/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sidd047/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
