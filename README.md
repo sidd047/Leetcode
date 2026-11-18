@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sidd047/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sidd047/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1678-goal-parser-interpretation](https://github.com/sidd047/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sidd047/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
 | ------- |
