@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/sidd047/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidd047/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sidd047/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sidd047/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sidd047/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3861-minimum-capacity-box](https://github.com/sidd047/Leetcode/tree/master/3861-minimum-capacity-box) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sidd047/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidd047/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sidd047/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sidd047/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sidd047/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sidd047/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sidd047/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sidd047/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sidd047/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sidd047/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
